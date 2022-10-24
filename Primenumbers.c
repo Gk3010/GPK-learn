@@ -6,7 +6,11 @@ scanf("%d",&n);
 m=n/2;    
 for(i=2;i<=m;i++)    
 {    
-if(n%i==0)    
+if(n%i==0)   
+ khkgf'jfuf
+ gugigi
+ fggikb
+ 
 {    
 printf("Number is not prime");    
 flag=1;    
